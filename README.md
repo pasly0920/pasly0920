@@ -38,5 +38,8 @@
   
 </div>
 
+<div width="100%" align="center">
+  
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&rotate=360)
 
+</div>
