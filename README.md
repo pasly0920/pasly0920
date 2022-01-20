@@ -28,7 +28,7 @@
   
   ---
   
-<div align = "center">
+<div align = "left">
   
   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=inwoo920)](https://solved.ac/inwoo920)
   
