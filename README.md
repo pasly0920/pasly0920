@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Pasly's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasly0920)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **pasly0920/pasly0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
