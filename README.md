@@ -38,4 +38,4 @@
   
 </div>
 
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+![header](https://capsule-render.vercel.app/api?text=&fontSize=20&rotate=180&color=gradient)
