@@ -6,10 +6,12 @@
 
 ### :sparkles: Hello Everyone 
 
+
 ### :tophat: I'm a
 * GDSC UOS FE Team Member :computer:
 * Undergraduate Computer Engineering in UOS :school:
 * FE Explorer :rocket:
+
 
 ### Tech Stack ( NOW I use!)
 <p>
