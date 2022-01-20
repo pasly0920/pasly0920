@@ -37,3 +37,5 @@
   [![Pasly's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasly0920&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
