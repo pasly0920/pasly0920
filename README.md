@@ -38,4 +38,4 @@
   
 </div>
 
-![header](https://capsule-render.vercel.app/api?text=&fontSize=20&rotate=180&color=gradient)
+<img width='100%' src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&rotate=360" />
