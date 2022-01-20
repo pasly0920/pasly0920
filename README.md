@@ -1,4 +1,11 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Pasly&fontAlign=80&fontAlignY=40&color=gradient)
+<div width="100%" align="center">
+  
+  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Pasly&fontAlign=80&fontAlignY=40&color=gradient)
+  
+</div>
+
+### :sparkles: Hello Everyone 
+
 
 ### Tech Stack ( NOW I use!)
 <p>
