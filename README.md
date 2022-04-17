@@ -30,10 +30,6 @@
   
 <div align = "left">
   
-  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=inwoo920)](https://solved.ac/inwoo920)
-  
-  ![GDSC UOS Github Badge](https://gdsc-uos-github-badge.vercel.app/api/color/pasly0920)
-  
   [![Pasly's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasly0920&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
