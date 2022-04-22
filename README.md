@@ -10,6 +10,7 @@
 ### :tophat: I'm a
 * GDSC UOS FE Team Member :computer:
 * Undergraduate Computer Engineering in UOS :school:
+* SW Maestro 13th :star:
 * FE Explorer :rocket:
 
 ### :fire: My Project!
