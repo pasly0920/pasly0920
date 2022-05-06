@@ -15,7 +15,6 @@
 
 ### :fire: My Project!
 * 🎈[교내 물품 공유 재능 공유 플랫폼 시대 이음(진행중)] (https://github.com/UOS-CONNECTION)
-* 🎥[간단한 영화 검색 (진행중)] (https://github.com/pasly0920/movie-world)
 
 
 ### :star2: Tech Stack ( NOW I use!)
