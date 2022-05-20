@@ -13,7 +13,7 @@
 * SW Maestro 13th (2022.04.08 ~) :star:
 
 ### :fire: My Project!
-* 🎈[교내 물품 공유 재능 공유 플랫폼 시대 이음(진행중 from 2022-01-19)] (https://github.com/UOS-CONNECTION)
+* 🎈[교내 물품 공유 재능 공유 플랫폼 시대 이음(from 2022-01-19)] (https://github.com/UOS-CONNECTION)
 
 
 ### :star2: Tech Stack ( NOW I use!)
