@@ -17,7 +17,7 @@
 ### :fire: My Project!
 * 🎈[교내 물품 공유 재능 공유 플랫폼 시대 이음(from 2022-01-19)] (https://github.com/UOS-CONNECTION) 
 * :book: [영상 통합 관리 툴 및 영상 학습용 툴(from 2022-05-01)] (https://github.com/3j-dev/vivid_web)
-* 시대생 앱 통합 with ReactNative
+* 시대생 앱 통합 (with ReactNative)
 
 
 ### :star2: Tech Stack ( NOW I use!)
