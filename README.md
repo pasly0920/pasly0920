@@ -10,8 +10,9 @@
 ### :tophat: I'm a
 * Undergraduate Computer Engineering in UOS :school:
 * GDSC UOS FE Team Member :computer:
-* SW Maestro 13th (2022.04.08 ~) :star:
+* SW Maestro 13th (2022.04.08 ~ 2022.11) :star:
 * 시대생 FE Developer
+* DND 8기 웹백엔드
 
 ### :fire: My Project!
 * 🎈[교내 물품 공유 재능 공유 플랫폼 시대 이음(from 2022-01-19)] (https://github.com/UOS-CONNECTION) 
