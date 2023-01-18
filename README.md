@@ -1,8 +1,6 @@
-<div width="100%" align="center">
-  
-  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Pasly&fontAlign=80&fontAlignY=40&color=gradient)
-  
-</div>
+## Inwoo Chung, 정인우
+
+기술로 만드는 더 나은 세상을 꿈꾸는 백엔드 엔지니어, 정인우입니다.
 
 ## Experience
 
@@ -25,7 +23,3 @@
   - [CLUB] AL林, Alogrithm Training Club
     - [COMPETITION] Facebook Hacker Cup
   
-  
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&rotate=360)
-
-</div>
