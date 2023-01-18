@@ -10,7 +10,7 @@
   - [CLUB] DND 8th
 - 2022
   - [EDUCATION] SoftWare Maestro 13th Trainee, Global SW Competency Building Training Program 
-  - [TEAM PROJECT] VIVID, Video content integrated management & Video Learning Tool in Web
+    - [TEAM PROJECT] VIVID, Video content integrated management & Video Learning Tool in Web
   - [JOB] 시대생
     - [Javascript] 시대생 App Maintenance
     - [Typescript] 시대생 Next Client (with React Native)
