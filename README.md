@@ -5,10 +5,13 @@
 ## Experience
 
 - 2023  
+
   - [CLUB] DND 8th
     - [JAVA] Block6, Efficient time management app
   - [CLUB] GDSC UOS Backend Member 
+  
 - 2022
+
   - [EDUCATION] SoftWare Maestro 13th Trainee, Global SW Competency Building Training Program 
     - [TEAM PROJECT] VIVID, Video content integrated management & Video Learning Tool in Web
   - [JOB] 시대생
@@ -17,7 +20,9 @@
     - [BookStudy] Modern JS Deep Dive Study
   - [CLUB] GDSC UOS Frontend Core Member
   - [HACKERTHON] JUNCTION ASIA 2022 AWS Track
+
 - 2021
+
   - [CLUB] GDSC UOS Frontend Member
     - [Typescript] UOS-CONNECTION, Talent sharing platform for college students
   - [CLUB] AL林, Alogrithm Training Club
