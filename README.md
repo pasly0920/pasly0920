@@ -4,22 +4,25 @@
   
 </div>
 
-### :sparkles: Hello Everyone 
+### Experience
 
-
-### :tophat: I'm a
-* Undergraduate Computer Engineering in UOS :school:
-* GDSC UOS FE Team Member :computer:
-* SW Maestro 13th (2022.04.08 ~ 2022.11) :star:
-* 시대생 FE Developer
-* DND 8기 웹백엔드
-
-### :fire: My Project!
-* 🎈[교내 물품 공유 재능 공유 플랫폼 시대 이음(from 2022-01-19)] (https://github.com/UOS-CONNECTION) 
-* :book: [영상 통합 관리 툴 및 영상 학습용 툴(from 2022-05-01)] (https://github.com/3j-dev/vivid_web)
-* 시대생 앱 통합 (with ReactNative)
-
-
+- 2023  
+  - [CLUB] DND 8th
+- 2022
+  - [EDUCATION] SoftWare Maestro 13th Trainee, Global SW Competency Building Training Program 
+  - [TEAM PROJECT] VIVID, Video content integrated management & Video Learning Tool in Web
+  - [JOB] 시대생
+    - [Javascript] 시대생 App Maintenance
+    - [Typescript] 시대생 Next Client (with React Native)
+  - [CLUB] GDSC UOS Frontend Core Member
+  - [HACKERTHON] JUNCTION ASIA 2022 AWS Track
+- 2021
+  - [CLUB] GDSC UOS Frontend Member
+    - [Typescript] UOS-CONNECTION, Talent sharing platform for college students
+  - 
+- 2020
+  - [CLUB] AL林, Alogrithm Training Club
+  
 ### :star2: Tech Stack ( NOW I use!)
 
 
