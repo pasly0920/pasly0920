@@ -7,7 +7,7 @@
 - 2023  
 
   - [CLUB] DND 8th
-    - [JAVA] Block6, Efficient time management app
+    - [JAVA] DayBlock, Efficient time management app
   - [CLUB] GDSC UOS Backend Member 
     - [JAVA] GDSC UOS Branding, gdsc hiring & critic platform
   
