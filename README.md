@@ -10,6 +10,8 @@
     - [JAVA] HaruBlock, Efficient time management app
   - [CLUB] GDSC UOS Backend Member 
     - [JAVA] GDSC UOS Branding, gdsc hiring & critic platform
+  - [JOB] 시대생
+    - [GO] 시대생 Identity (idP with go-fiber, gorm)
   
 - 2022
 
