@@ -13,11 +13,8 @@
   - [CLUB] GDSC UOS Backend Member 
     - [JAVA] GDSC UOS Branding, gdsc hiring & critic platform
   - [JOB] 시대생
-    - [GO] 시대생 Identity (idP with go-fiber, gorm)
-    - [Kotlin] 시대생 Account (Kotlin + Spring Boot)
+    - [Kotlin] Server Rebuild
     - [Kotlin] 시대팅 블라인드 소개팅 (Kotlin + Spring Boot)
-  - [JOB] Myversity
-    - [Kotlin] Myversity API Server (Kotlin + Spring Boot) 
   
 - 2022
 
