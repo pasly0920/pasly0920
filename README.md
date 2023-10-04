@@ -8,7 +8,7 @@
 
   - [JOB] Hustlers
     - [Kotlin] Turning API Server
-    - [Typescript] Turning Serverless Migration 
+    - [Typescript] Turning API Serverless Migration 
   - [CLUB] DND 8th
     - [JAVA] HaruBlock, Efficient time management app
   - [CLUB] GDSC UOS Backend Member 
