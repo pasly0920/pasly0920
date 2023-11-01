@@ -13,7 +13,7 @@
     - [JAVA] HaruBlock, Efficient time management app
   - [CLUB] GDSC UOS Backend Member 
   - [JOB] 시대생
-    - [Kotlin] Server Rebuild
+    - [Kotlin] MSA Server Rebuild
     - [Kotlin] 시대팅 블라인드 소개팅 (Kotlin + Spring Boot)
   
 - 2022
