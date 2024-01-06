@@ -6,6 +6,9 @@
 
 - 2023
 
+  - [JOB] HunetModucoding
+    - [Typescript] Barcode CMS Server
+    - [Typescript] Barcode Notification MSA Server
   - [JOB] Hustlers
     - [Kotlin] Turning API Server
     - [Typescript] Turning API Serverless Migration 
